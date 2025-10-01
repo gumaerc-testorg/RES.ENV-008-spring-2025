@@ -6,10 +6,10 @@ file: /ol-ocw-studio-app/courses/res-env-008-climate-environment-and-sustainabil
 file_size: 17915
 file_type: image/jpeg
 image_metadata:
-  caption: 'Biglow Canyon Wind Farm in Oregon. (Photo by [lamoix](https://www.flickr.com/photos/38102502@N07/9585509028)
-    on Flickr. License: CC BY.)'
-  credit: 'Photo by [lamoix](https://www.flickr.com/photos/38102502@N07/9585509028)
-    on Flickr. License: CC BY.'
+  caption: 'Biglow Canyon Wind Farm in Oregon. (Photo by {{% resource_link "06079a90-0192-4d7d-8312-6107aff370ce"
+    "lamoix" %}} on Flickr. License: CC BY.)'
+  credit: 'Photo by {{% resource_link "06079a90-0192-4d7d-8312-6107aff370ce" "lamoix"
+    %}} on Flickr. License: CC BY.'
   image-alt: A field of wheat being harvested by a combine, with three wind turbines
     and a snowcapped mountain in the background.
 learning_resource_types: []
